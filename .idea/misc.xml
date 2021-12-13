@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_kereta.xml" value="0.33" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_kereta2.xml" value="0.25" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_mobil.xml" value="0.33" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_mobil2.xml" value="0.2" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_motor.xml" value="0.33" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_motor2.xml" value="0.2" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_pesawat.xml" value="0.33" />
+        <entry key="..\:/XII RPL/PAS2021 (Yeyet)/app/src/main/res/layout/activity_pesawat2.xml" value="0.15501519756838905" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
